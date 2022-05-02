@@ -1,0 +1,3 @@
+The surf_check app will allow users to create accounts where they can share they can post their surf checks to their profiles. This will include text, photo, and video. Users will be able to view their own account as well as others that they follow so as to gain real time updates on surf in particular locations.
+
+This will look to solve the problem of wanting a more real-time update of the quality of surf in particular locations that an app like Surfline (who has someone check the surf 1-2 times a day) does not provide. It will also be personalized and allow surfers to hone in on particular breaks that Surfline may not be aware of/reporting on (ie Santa Barbara county).
